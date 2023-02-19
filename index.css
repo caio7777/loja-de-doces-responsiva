@@ -277,6 +277,7 @@
     .barra-de-navegacao .aling-content-logo img {
       padding-top: 20px;
   }
+
 }
 
   @media screen and (max-width: 820px) {
@@ -299,7 +300,7 @@
       height: 500px;
       border: 3px solid black;
     }
-    h1{
+    .barra-de-navegacao .aling-content-logo h1{
       font-size: 35px;
     }
   }
