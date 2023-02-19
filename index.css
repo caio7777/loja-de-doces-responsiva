@@ -257,6 +257,9 @@
     .barra-de-navegacao .aling-content-logo  img{
       width: 50px;
     }
+    .barra-de-navegacao .aling-content-logo h1{
+      font-size: 35px;
+    }
     ul{
       display: flex;
       justify-content: space-between;
