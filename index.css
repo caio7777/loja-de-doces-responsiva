@@ -253,9 +253,7 @@
       justify-content: center;
       align-items: center;
     }
-    .barra-de-navegacao .aling-content-logo h1{
-      font-size: 35px;
-    }
+
     .barra-de-navegacao .aling-content-logo  img{
       width: 50px;
     }
@@ -270,12 +268,16 @@
   
   }
 
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1300px) {
     
     .barra-de-navegacao .aling-content-logo h1{
       font-size: 35px;
+      padding-top: 20px;
     }
+    .barra-de-navegacao .aling-content-logo img {
+      padding-top: 20px;
   }
+}
 
   @media screen and (max-width: 820px) {
     ul{
